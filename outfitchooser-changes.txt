@@ -1,0 +1,7 @@
+==== v0.6.4 (2022-07-18) ====
+
+-- OTHER CHANGES/FIXES:
+* The software will now list updated changes from the internet.
+* 'lightness' item property has new alternate: 'brightness' — both work
+
+------------------------------
