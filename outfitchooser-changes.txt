@@ -3,5 +3,7 @@
 -- OTHER CHANGES/FIXES:
 * The software will now list updated changes from the internet.
 * 'lightness' item property has new alternate: 'brightness' — both work
+* Misc. change with opening console to stop preventing user from
+clicking on window
 
 ------------------------------
