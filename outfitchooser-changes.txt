@@ -1,9 +1,7 @@
-==== v0.6.4 (2022-07-18) ====
+==== v0.6.5 (2022-07-25) ====
 
--- OTHER CHANGES/FIXES:
-* The software will now list updated changes from the internet.
-* 'lightness' item property has new alternate: 'brightness' — both work
-* Misc. change with opening console to stop preventing user from
-clicking on window
+* New 'ID' system for layers to allow for multiple layers to access the same folder
+* 'brightness' property will now be properly detected by program if by itself
+* New ?config "show_debug" string: "scale_error"
 
 ------------------------------
